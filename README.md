@@ -1,4 +1,4 @@
-# FutureReady AI 🚀
+# FutureReady AI 
 
 ## AI-Powered Student Skill Gap Analysis and
 ## Personalized Career Development System
